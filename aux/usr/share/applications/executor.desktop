@@ -1,0 +1,9 @@
+
+[Desktop Entry]
+Name=Executor
+Comment=Macintosh Emulator
+Exec=executor
+Icon=/opt/executor/apple_icon.png
+Type=Application
+Categories=GNOME;GTK;Utility;Emulator;System;
+StartupNotify=true
