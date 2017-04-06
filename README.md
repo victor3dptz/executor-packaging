@@ -4,6 +4,7 @@ Modified spec-files to properly build rpm and deb packages of Executor emulator
 Tested on CentOS 6.8 32bit
 
 Use SPECS/executor.spec to build executor.rpm (contains binary)
+
 Use SPECS/executor-aux.spec to build executor-aux.rpm (auxiliary files for the Executor *in aux directory*)
 
 To build executor binary, visit https://github.com/ctm/executor
