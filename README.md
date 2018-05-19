@@ -16,4 +16,4 @@ To build deb, use alien on Deb-based distribution.
 There are pre-built packages for CentOS 6.8 (32 bit) and Debian 8 Jessie (32 bit) in the "ready" directory.
 Deb also has been tested on Linux Mint 18.1 (64 bit)
 
-+ Arch Linux
+Arch Linux and Manjaro users use PKGBUILD
