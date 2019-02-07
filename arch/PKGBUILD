@@ -8,7 +8,7 @@ arch=('x86_64')
 url="http://wiki.victor3d.com.br"
 license=('GPL')
 groups=()
-depends=("qt5-base")
+depends=("qt5-base" "boost")
 makedepends=("cmake" "sdl2" "boost" "git")
 checkdepends=()
 optdepends=()
@@ -21,7 +21,7 @@ install=
 changelog=
 source=("https://github.com/victor3dptz/executor-packaging/raw/master/arch/executor.tar.gz")
 noextract=()
-md5sums=("e3008f80cb44277fd1e5a0873b39d131")
+md5sums=("868697896b0c51c66d31440f3c59a3fc")
 validpgpkeys=()
 
 prepare() {
