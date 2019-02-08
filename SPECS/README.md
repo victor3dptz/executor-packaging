@@ -10,9 +10,9 @@ Then install gcc-8
 
 Before build, enable gcc 8
 
-```scl enable devtoolset-8 bash
-which gcc
-gcc --version```
+```scl enable devtoolset-8 bash```
+```which gcc```
+```gcc --version```
 
 Then build the RPM:
 
